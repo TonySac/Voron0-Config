@@ -2,11 +2,23 @@
 
 I dug parts out of my spare collection and sourced the rest of the parts. Thanks to the PIF community for the printed parts.
 
-## Notable Hardware/Features
-- Raspberry Pi 4 B
+## Notable Hardware
+- Raspberry Pi 4B
 - SKR Pico as CAN bus bridge
 - EBB36 CAN toolhead
-- LED lighting (work in progress)
+- LED lighting
+
+## Configuration Features
+- Mainsail dashboard with custom theme
+- Chamber and MCU temperature sensors
+    - Electronics cooling fan controlled by Raspberry Pi temperature
+- Adaptive Meshing and Purge
+- LED Effects
+
+## Custom Macros
+- Start/End
+- Color change/M600
+- LED control
 
 🚧 This is a working repo. Meaning both this configuration works and I'm constantly working on it. 🚧
 
